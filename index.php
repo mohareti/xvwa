@@ -54,6 +54,7 @@
 
     </div>
     <!-- /.container -->
+    <!-- /.container -->
 
     <?php include("footer.html") ?>
     <!-- /.container -->
